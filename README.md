@@ -1,2 +1,2 @@
-# aafen_new
-web
+# aafen_new.github.io
+my portofolio website
